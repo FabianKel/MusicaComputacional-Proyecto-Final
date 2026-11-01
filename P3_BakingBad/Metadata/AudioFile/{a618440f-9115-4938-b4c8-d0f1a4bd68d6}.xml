@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.04.00">
+	<object class="AudioFile" id="{a618440f-9115-4938-b4c8-d0f1a4bd68d6}">
+		<property name="assetPath">
+			<value>Normal_Baja.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>29.090875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e882b8c8-8eec-404a-ae09-4d3ab990e7ad}</destination>
+		</relationship>
+	</object>
+</objects>
