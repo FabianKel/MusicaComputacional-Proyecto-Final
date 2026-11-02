@@ -85,7 +85,7 @@ CELLS = {
 
 
 def main():
-    BPM = 150
+    BPM = 132
     seq = Sequence(Sequence.PPQ, PPQ)
 
     meta = seq.createTrack()
