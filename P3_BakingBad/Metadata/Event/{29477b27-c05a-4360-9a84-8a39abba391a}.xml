@@ -235,6 +235,9 @@
 		<property name="length">
 			<value>7.2727291666666662</value>
 		</property>
+		<property name="volume">
+			<value>-6.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{ea129965-450d-4e68-86b7-502af4223dc3}</destination>
 		</relationship>
@@ -296,6 +299,9 @@
 		</property>
 		<property name="length">
 			<value>29.090875000000004</value>
+		</property>
+		<property name="volume">
+			<value>-6</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{a618440f-9115-4938-b4c8-d0f1a4bd68d6}</destination>
@@ -377,6 +383,9 @@
 		</property>
 		<property name="length">
 			<value>29.090875000000004</value>
+		</property>
+		<property name="volume">
+			<value>-6</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{71c14de4-c7b7-4ba1-94ab-cd309546fadf}</destination>
@@ -464,6 +473,9 @@
 		</property>
 		<property name="length">
 			<value>29.090875000000004</value>
+		</property>
+		<property name="volume">
+			<value>-6</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{de970d5b-88fe-4796-a5a4-b6990088c37a}</destination>
@@ -773,6 +785,9 @@
 		<property name="length">
 			<value>14.545458333333334</value>
 		</property>
+		<property name="quantizationInterval">
+			<value>2</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{841ece1b-ef21-4837-9e2f-be5c6c58fd5d}</destination>
 		</relationship>
@@ -792,6 +807,9 @@
 		</property>
 		<property name="length">
 			<value>14.545458333333334</value>
+		</property>
+		<property name="quantizationInterval">
+			<value>2</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{841ece1b-ef21-4837-9e2f-be5c6c58fd5d}</destination>
